@@ -1,0 +1,32 @@
+{
+    "code": "1",
+    "message": "",
+    "errorMessage": "",
+    "data": {
+        "shopTitle": "西兰花小铺1024",
+        "shopLogo": "http://www.baidu.com",
+        "shopId ": 233,
+        "productList": [{
+                "imagePath": "https://www.baidu.com/img/bd_logo1.png",
+                "longName": "门票门票门票长长长长",
+                "shortName": "门票门票门票短短短短",
+                "salesStartTime": 1508057311663,
+                "salesEndTime": 1535796000000
+            },
+            {
+                "imagePath": "https://www.baidu.com/img/bd_logo1.png",
+                "longName": "酒店酒店酒店长长长长",
+                "shortName": "酒店酒店酒店短短短短",
+                "salesStartTime": 1508057311683,
+                "salesEndTime": 1530525600000
+            },
+            {
+                "imagePath": "https://www.baidu.com/img/bd_logo1.png",
+                "longName": "潮乐汇潮乐汇潮乐汇长长长长",
+                "shortName": "潮乐汇潮乐汇潮乐汇短短短短",
+                "salesStartTime": 1508057311683,
+                "salesEndTime": 1523268000000
+            }
+        ]
+    }
+}

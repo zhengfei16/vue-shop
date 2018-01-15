@@ -1,0 +1,45 @@
+{
+    "code": "1",
+    "message": "",
+    "errorMessage": "",
+    "data": {
+        "orderStatus": "待支付",
+        "payLimitTime": { "date": 17, "day": 2, "hours": 14, "minutes": 58, "month": 9, "seconds": 1, "time": 1508223481719, "timezoneOffset": -480, "year": 117 },
+        "longName": "上海迪士尼乐园一日游(特价促销)",
+        "shortName": "上海迪士尼乐园一日游",
+        "salePrice": 25000,
+        "mainProductName": "门票",
+        "subProductName": "景点门票",
+        "stayDays": "1",
+        "reserveStartDate": { "date": 17, "day": 2, "hours": 14, "minutes": 58, "month": 9, "seconds": 1, "time": 1508223481719, "timezoneOffset": -480, "year": 117 },
+        "reserveEndDate": { "date": 17, "day": 2, "hours": 14, "minutes": 58, "month": 9, "seconds": 1, "time": 1508223481719, "timezoneOffset": -480, "year": 117 },
+        "visitStartDate": { "date": 17, "day": 2, "hours": 14, "minutes": 58, "month": 9, "seconds": 1, "time": 1508223481719, "timezoneOffset": -480, "year": 117 },
+        "visitEndDate": { "date": 17, "day": 2, "hours": 14, "minutes": 58, "month": 9, "seconds": 1, "time": 1508223481719, "timezoneOffset": -480, "year": 117 },
+        "productRemark": "产品订单备注",
+        "quantity": 2,
+        "address": "上海市普陀区怒江北路302弄",
+        "name": "张三",
+        "cellphone": "13801690223",
+        "bookingRemark": "预定备注1111",
+        "op": "支付",
+        "voucherNoList": [{
+                "voucherNo": 121021921931,
+                "voucherNoStatus": "预约成功",
+                "diffPrice": 2000,
+                "voucherOp": "",
+                "visitorName": "张三",
+                "visitDate": "2017/10/17",
+                "cellphone": "13301690229"
+            },
+            {
+                "voucherNo": 121021921932,
+                "voucherNoStatus": "预约成功",
+                "diffPrice": 0,
+                "voucherOp": "",
+                "visitorName": "李四",
+                "visitDate": "2017/10/21",
+                "cellphone": "13301690227"
+            }
+        ]
+    }
+}

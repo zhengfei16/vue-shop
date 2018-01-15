@@ -1,0 +1,38 @@
+{
+    "code": "1",
+    "message": "",
+    "errorMessage": "",
+    "data": {
+        "totalRecords": 2,
+        "totalPage": 1,
+        "productList": [{
+                "productNo": 6,
+                "imagePath": "https://www.baidu.com/img/bd_logo1.png",
+                "mainProductName": "门票",
+                "salesStartTime": 1508057311683,
+                "salesEndTime": 1523268000000,
+                "longName": "门票门票门票长长长长",
+                "shortName": "门票门票门票短短短短",
+                "soldInventory": 55,
+                "saleableInventory": 45,
+                "salesPrice": 299,
+                "commission": 11,
+                "op": "PAY,PAY "
+            },
+            {
+                "productNo": 7,
+                "imagePath": "https://www.baidu.com/img/bd_logo1.png",
+                "mainProductName": "酒店",
+                "salesStartTime": 1508057311683,
+                "salesEndTime": 1523268000000,
+                "longName": "酒店酒店酒店长长长长",
+                "shortName": "酒店酒店酒店短短短短",
+                "soldInventory": 55,
+                "saleableInventory": 45,
+                "salesPrice": 389,
+                "commission": 9,
+                "op": "PAY,PAY "
+            }
+        ]
+    }
+}
