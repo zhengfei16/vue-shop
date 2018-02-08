@@ -8,17 +8,12 @@
     "buildAll": "node build/build all",
     "testAll": "node build/karma all",
     "devAll": "node build/dev-server all",
-
     "buildOne": "node build/build one",
     "buildOne-local": "node build/build one --local localDirName",
-    
     "devOne": "node build/dev-server one",
     "testOne": "node build/karma testOnePage",
-
     "devWeshop": "node build/dev-server B2B/weshop",
     "buildWeshop": "node build/build B2B/weshop",
-
-
     "devcustomTour": "node build/dev-server customTour",
     "lint": "eslint --ext .js,.vue busi"
   },
